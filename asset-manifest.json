@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.6f552c66.css",
+    "main.js": "/portfolio/static/js/main.b3bbd346.js",
+    "static/media/ATR.png": "/portfolio/static/media/ATR.6e8a2578e3000f31a4ce.png",
+    "static/media/soccer.png": "/portfolio/static/media/soccer.5a8c735e5ceb8e948bb2.png",
+    "static/media/mathieu-giard.jpg": "/portfolio/static/media/mathieu-giard.59cc8b1e3192c1e0b0eb.jpg",
+    "static/media/gaming-two.png": "/portfolio/static/media/gaming-two.1ab1070ad179dbea6fd9.png",
+    "static/media/Thumbnail.png": "/portfolio/static/media/Thumbnail.e70cf42b38bb230f79b8.png",
+    "static/media/database.jpeg": "/portfolio/static/media/database.fd36ffd57edcfc02202a.jpeg",
+    "static/media/PIZZA.jpg": "/portfolio/static/media/PIZZA.9c53416834d97ee73bcf.jpg",
+    "static/media/cvGenerator.png": "/portfolio/static/media/cvGenerator.355732f7fd8747879c13.png",
+    "static/media/delivery.png": "/portfolio/static/media/delivery.33a83c80a4bb8c7d366d.png",
+    "static/media/friendsApp.png": "/portfolio/static/media/friendsApp.dd46febc579fb63b87bb.png",
+    "index.html": "/portfolio/index.html",
+    "main.6f552c66.css.map": "/portfolio/static/css/main.6f552c66.css.map",
+    "main.b3bbd346.js.map": "/portfolio/static/js/main.b3bbd346.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f552c66.css",
+    "static/js/main.b3bbd346.js"
+  ]
+}
